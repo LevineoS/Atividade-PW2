@@ -1,0 +1,1 @@
+<nav> é utilizado para representar uma seção de uma página que contém links de navegação
